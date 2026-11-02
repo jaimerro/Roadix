@@ -1,12 +1,12 @@
 {
   "name": "ROADIX · Navegación GPS",
   "short_name": "ROADIX",
-  "start_url": "./",
+  "start_url": "./?v=7",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0b1220",
   "theme_color": "#0b1220",
-  "description": "Navegador GPS experimental con radares oficiales de Madrid",
+  "description": "ROADIX V7 España Pro: navegador GPS experimental con mapa 3D y rutas en España",
   "icons": [
     {
       "src": "./icon.svg",
